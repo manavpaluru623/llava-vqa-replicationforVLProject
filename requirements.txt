@@ -1,0 +1,12 @@
+torch
+transformers
+accelerate
+huggingface_hub
+pillow
+tqdm
+sentencepiece
+einops
+bitsandbytes
+markdown2
+shortuuid
+einops-exts==0.0.4
